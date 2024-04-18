@@ -21,7 +21,9 @@ O python do anaconda pode apresentar problemas. Caso não tenha o python fora o 
 ### 1.1. Dependências com pip install:
 1. Abra a prompt de comando (cmd no Menu Iniciar Windows)
 2. Digite e rode os seguintes comandos (para instalar o ninja e o Jinja2):
+   
 ````pip install -U Jinja2````
+
 ````python -m pip install ninja````
   
 ![image](https://github.com/ThiTeiSan/CLI2-Mbed/assets/167451264/234b9324-3ea4-4eec-bb60-dca419b8885e)

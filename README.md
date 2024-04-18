@@ -6,7 +6,12 @@
 - Possibilidade de trabalhar offline
 - Não depender dos servidores do ou contas do Keil Studio
 
-O fluxo de trabalho com o uso do CLI se resume a baixar o sistema Mbed base (apenas uma vez), editar os arquivos C++ (como o main.cpp) em qualquer editor de código e, por fim, compilar o código para sua placa de escolha. Abaixo seguem instruções de como instalar e utilizar o CLI 2 do Mbed.
+Já as desvantagens são:
+
+- Requer o download do Mbed OS (1GB)
+- O CLI 2 trabalha em Mbed OS 6, que é diferente do Mbed OS 2 utilizado usualmente na disciplina. 
+
+O fluxo de trabalho com o uso do CLI se resume a baixar o sistema Mbed base, editar os arquivos C++ (como o main.cpp) em qualquer editor de código e, por fim, compilar o código para sua placa de escolha. Abaixo seguem instruções de como instalar e utilizar o CLI 2 do Mbed, baseados na documentação da Arm: https://os.mbed.com/docs/mbed-os/v6.16/build-tools/mbed-cli-2.html 
 
 ## 1. Instalando dependências
 
